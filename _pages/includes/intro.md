@@ -1,4 +1,4 @@
-# 👋 Boigraphy
+# 👋 About me
 Currently I'm a master student of [School of Computer Science and Engineering](https://cse.seu.edu.cn/) in [Southeast University](https://www.seu.edu.cn/), under the supervision of [Prof. Fang Dong](https://cse.seu.edu.cn/2023/1024/c23024a469532/page.htm).
 
 
